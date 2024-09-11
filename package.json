@@ -1,5 +1,5 @@
 {
-  "name": "radash",
+  "name": "@eamon98/radash",
   "version": "12.1.0",
   "description": "Functional utility library - modern, simple, typed, powerful",
   "main": "dist/cjs/index.cjs",
