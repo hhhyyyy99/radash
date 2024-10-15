@@ -15,9 +15,9 @@
     "dist"
   ],
   "repository": {
-    "url": "https://github.com/rayepps/radash"
+    "url": "https://github.com/hhhyyyy99/radash.git"
   },
-  "author": "rayepps",
+  "author": "hhhyyyy99",
   "private": false,
   "license": "MIT",
   "scripts": {
